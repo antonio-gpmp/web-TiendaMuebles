@@ -75,6 +75,13 @@ This repository contains the source code of a web page developed with HTML, CSS 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTACT -->
 ## Contact
 Antonio García-Peñuela Molina-Prados - [@antonio-gpmp](https://www.linkedin.com/in/antonio-gpmp/) - antoniokarpin@hotmail.com
