@@ -1,4 +1,4 @@
-# Tienda de Muebles Responsive
+# Responsive Furniture Store
 
 This repository contains the source code of a web page developed with HTML, CSS and JavaScript, which serves as an example of an online furniture store.
 
